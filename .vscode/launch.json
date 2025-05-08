@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        
+        
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "hellofx.Main",
+            "projectName": "javaFX_1a9fb706",
+            "vmArgs": "--module-path \"D:/Program Files/Java/javaFX/javafx-sdk-21.0.1\" --add-modules javafx.controls,javafx.fxml"
+        },
+
+    ]
+}
